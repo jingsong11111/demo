@@ -10,7 +10,7 @@ public class Student {
     public int getId() {
         return id;
     }
-
+    //测试冲突。。。。。。
     public void setId(int id) {
         this.id = id;
     }
