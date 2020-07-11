@@ -6,6 +6,7 @@ public class Student {
     private int age;
     private String sql;
 
+    //添加注释
     public int getId() {
         return id;
     }
